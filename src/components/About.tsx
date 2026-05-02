@@ -15,7 +15,7 @@ export function About() {
           >
             <div className="relative rounded-2xl overflow-hidden aspect-[4/5] md:aspect-square lg:aspect-[4/5]">
               <img 
-                src="/images/dentist-portrait.jpg" 
+                src="/images/dentist-portrait sarah.jpg" 
                 alt="Dr. Sarah Jenkins - Lead Dentist" 
                 className="w-full h-full object-cover"
               />
